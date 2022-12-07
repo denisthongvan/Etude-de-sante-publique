@@ -1,0 +1,204 @@
+code_pays,pays,nb_personnes,annee
+2,Afghanistan,7900000.0,2013
+202,Afrique du Sud,2600000.0,2013
+3,Albanie,200000.0,2013
+4,Algérie,1700000.0,2013
+79,Allemagne,,2013
+6,Andorre,,2013
+7,Angola,8100000.0,2013
+8,Antigua-et-Barbuda,,2013
+194,Arabie saoudite,1600000.0,2013
+9,Argentine,1500000.0,2013
+1,Arménie,100000.0,2013
+10,Australie,,2013
+11,Autriche,,2013
+52,Azerbaïdjan,,2013
+12,Bahamas,,2013
+13,Bahreïn,,2013
+16,Bangladesh,26100000.0,2013
+14,Barbade,,2013
+57,Bélarus,,2013
+255,Belgique,,2013
+23,Belize,,2013
+53,Bénin,1000000.0,2013
+17,Bermudes,,2013
+18,Bhoutan,,2013
+19,Bolivie (État plurinational de),2200000.0,2013
+80,Bosnie-Herzégovine,,2013
+20,Botswana,500000.0,2013
+21,Brésil,,2013
+26,Brunéi Darussalam,,2013
+27,Bulgarie,400000.0,2013
+233,Burkina Faso,3400000.0,2013
+29,Burundi,,2013
+35,Cabo Verde,,2013
+115,Cambodge,2800000.0,2013
+32,Cameroun,1700000.0,2013
+33,Canada,,2013
+40,Chili,600000.0,2013
+96,Chine - RAS de Hong-Kong,,2013
+128,Chine - RAS de Macao,,2013
+41,"Chine, continentale",136600000.0,2013
+214,"Chine, Taiwan Province de",1000000.0,2013
+50,Chypre,,2013
+44,Colombie,4099999.9999999995,2013
+45,Comores,,2013
+46,Congo,1800000.0,2013
+48,Costa Rica,300000.0,2013
+107,Côte d'Ivoire,4700000.0,2013
+98,Croatie,,2013
+49,Cuba,,2013
+54,Danemark,,2013
+72,Djibouti,200000.0,2013
+55,Dominique,,2013
+59,Égypte,3900000.0,2013
+60,El Salvador,700000.0,2013
+225,Émirats arabes unis,400000.0,2013
+58,Équateur,1300000.0,2013
+178,Érythrée,,2013
+203,Espagne,,2013
+63,Estonie,,2013
+209,Eswatini,300000.0,2013
+231,États-Unis d'Amérique,,2013
+238,Éthiopie,25300000.0,2013
+185,Fédération de Russie,,2013
+66,Fidji,,2013
+67,Finlande,,2013
+68,France,,2013
+74,Gabon,200000.0,2013
+75,Gambie,200000.0,2013
+73,Géorgie,300000.0,2013
+81,Ghana,1600000.0,2013
+84,Grèce,,2013
+86,Grenade,,2013
+85,Groenland,,2013
+89,Guatemala,2500000.0,2013
+90,Guinée,1800000.0,2013
+61,Guinée équatoriale,,2013
+175,Guinée-Bissau,400000.0,2013
+91,Guyana,,2013
+93,Haïti,5200000.0,2013
+95,Honduras,1300000.0,2013
+97,Hongrie,,2013
+47,Îles Cook,,2013
+127,Îles Marshall,,2013
+25,Îles Salomon,,2013
+100,Inde,216300000.0,2013
+101,Indonésie,22600000.0,2013
+102,Iran (République islamique d'),4200000.0,2013
+103,Iraq,9100000.0,2013
+104,Irlande,,2013
+99,Islande,,2013
+105,Israël,,2013
+106,Italie,,2013
+109,Jamaïque,300000.0,2013
+110,Japon,,2013
+112,Jordanie,900000.0,2013
+108,Kazakhstan,,2013
+114,Kenya,10000000.0,2013
+113,Kirghizistan,400000.0,2013
+83,Kiribati,,2013
+118,Koweït,,2013
+122,Lesotho,300000.0,2013
+119,Lettonie,,2013
+121,Liban,500000.0,2013
+123,Libéria,1600000.0,2013
+124,Libye,,2013
+126,Lituanie,,2013
+256,Luxembourg,,2013
+154,Macédoine du Nord,,2013
+129,Madagascar,8199999.999999999,2013
+131,Malaisie,1000000.0,2013
+130,Malawi,3200000.0,2013
+132,Maldives,,2013
+133,Mali,1000000.0,2013
+134,Malte,,2013
+143,Maroc,1400000.0,2013
+137,Maurice,,2013
+136,Mauritanie,300000.0,2013
+138,Mexique,5300000.0,2013
+145,Micronésie (États fédérés de),,2013
+141,Mongolie,500000.0,2013
+273,Monténégro,,2013
+144,Mozambique,7000000.0,2013
+28,Myanmar,6600000.0,2013
+147,Namibie,700000.0,2013
+148,Nauru,,2013
+149,Népal,2500000.0,2013
+157,Nicaragua,1100000.0,2013
+158,Niger,1900000.0,2013
+159,Nigéria,13400000.0,2013
+160,Nioué,,2013
+162,Norvège,,2013
+153,Nouvelle-Calédonie,,2013
+156,Nouvelle-Zélande,,2013
+221,Oman,200000.0,2013
+226,Ouganda,12600000.0,2013
+235,Ouzbékistan,2100000.0,2013
+165,Pakistan,38100000.0,2013
+180,Palaos,,2013
+299,Palestine,,2013
+166,Panama,400000.0,2013
+168,Papouasie-Nouvelle-Guinée,,2013
+169,Paraguay,800000.0,2013
+150,Pays-Bas,,2013
+170,Pérou,2800000.0,2013
+171,Philippines,14000000.0,2013
+173,Pologne,,2013
+70,Polynésie française,,2013
+177,Porto Rico,,2013
+174,Portugal,,2013
+179,Qatar,,2013
+212,République arabe syrienne,,2013
+37,République centrafricaine,2000000.0,2013
+117,République de Corée,,2013
+146,République de Moldova,,2013
+250,République démocratique du Congo,,2013
+120,République démocratique populaire lao,1200000.0,2013
+56,République dominicaine,1300000.0,2013
+116,République populaire démocratique de Corée,10600000.0,2013
+215,République-Unie de Tanzanie,16399999.999999998,2013
+183,Roumanie,,2013
+229,Royaume-Uni,,2013
+184,Rwanda,3600000.0,2013
+189,Sainte-Lucie,,2013
+188,Saint-Kitts-et-Nevis,,2013
+191,Saint-Vincent-et-les Grenadines,,2013
+244,Samoa,,2013
+5,Samoa américaines,,2013
+193,Sao Tomé-et-Principe,,2013
+195,Sénégal,1900000.0,2013
+272,Serbie,500000.0,2013
+196,Seychelles,,2013
+197,Sierra Leone,1600000.0,2013
+200,Singapour,,2013
+199,Slovaquie,200000.0,2013
+198,Slovénie,,2013
+201,Somalie,,2013
+276,Soudan,8300000.000000001,2013
+277,Soudan du Sud,,2013
+38,Sri Lanka,2300000.0,2013
+210,Suède,,2013
+211,Suisse,,2013
+207,Suriname,,2013
+208,Tadjikistan,,2013
+39,Tchad,4900000.0,2013
+167,Tchéquie (la),,2013
+216,Thaïlande,5600000.0,2013
+176,Timor-Leste,300000.0,2013
+217,Togo,1300000.0,2013
+218,Tokélaou,,2013
+219,Tonga,,2013
+220,Trinité-et-Tobago,,2013
+222,Tunisie,500000.0,2013
+213,Turkménistan,300000.0,2013
+223,Turquie,,2013
+227,Tuvalu,,2013
+230,Ukraine,,2013
+234,Uruguay,,2013
+155,Vanuatu,,2013
+236,Venezuela (République bolivarienne du),1900000.0,2013
+237,Viet Nam,10400000.0,2013
+249,Yémen,7200000.0,2013
+251,Zambie,7000000.0,2013
+181,Zimbabwe,6600000.0,2013
